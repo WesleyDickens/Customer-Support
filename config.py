@@ -35,3 +35,4 @@ from nltk.corpus import wordnet
 from nltk import pos_tag
 from dotenv import load_dotenv
 from openai import OpenAI
+import os
